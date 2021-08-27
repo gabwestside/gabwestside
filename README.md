@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey 👋
 
 <!--
 **gabwestside/gabwestside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on GreenDot as Front-End Engineer
+- 🌱 I’m currently learning ReactJs
+- 👯 I’m looking to collaborate on your web project
+- ⚡ Fun fact: i love sports, skyrim and astronomy
+
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=josuelopes512&show_icons=true&theme=chartreuse-dark)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabwestside&theme=chartreuse-dark&layout=compact)](https://github.com/gabwestside/github-readme-stats)
+
 -->

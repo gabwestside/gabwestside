@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i love sports, skyrim and astronomy
 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=gabwestside&show_icons=true&theme=chartreuse-dark)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabwestside&theme=chartreuse-dark&layout=compact)](https://github.com/gabwestside/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?gabwestside=karanalpe&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?gabwestside=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)(https://github.com/gabwestside/github-readme-stats)
 
 -->

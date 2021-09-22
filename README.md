@@ -2,7 +2,8 @@
 
 
 - 🔭 Atualmente estagiando na Green.Dot como Desenvolvedor Front-End
-- 📚 Aprendendo ReactJs e Typescript
+- 📚 Aprendendo ReactJs, React Native, Typescript e reforçando meus conhecimentos em JavaScript
+- 👨‍🎓 Cursando o sexto semestre de Ciências da Computação
 - 🚀 Sempre buscando evoluir!
 
 <div>

@@ -11,7 +11,8 @@
   <a href="https://github.com/gabwestside">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabwestside&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabwestside&layout=compact&langs_count=7&theme=dracula"/>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabwestside&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
+      
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabwestside&theme=draucula&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
 </div>
 
  ### Linguagens e tecnologias que utilizo no dia-a-dia 🖥️🤓

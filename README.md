@@ -17,14 +17,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabwestside&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
- 
-<!-- <p align="center">
- ### Linguagens e tecnologias que utilizo no dia-a-dia 🖥️🤓
-</p> -->
 
-<p align="center">
-    Linguagens e tecnologias que utilizo no dia-a-dia 🖥️🤓
-</p>
+ ### Linguagens e tecnologias que utilizo no dia-a-dia 🖥️🤓
 
 <div align="center" style="display: inline_block"><br>
   <p align="center">

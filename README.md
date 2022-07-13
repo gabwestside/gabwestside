@@ -1,9 +1,9 @@
 ### Olá Mundo, Gabriel aqui! 👋😎
 
-- 🔭 Atualmente estagiando no FitBank como Desenvolvedor .NET
-- 📚 No momento aprendendo C# e reforçando meus conhecimentos em JavaScript
-- 👨‍🎓 Cursando o sexto semestre de Ciências da Computação
-- 🚀 Sempre buscando evoluir!
+- 🔭 Atualmente sou Desenvolvedor Fullstack Junior no FitBank
+- 📚 No momento trabalho com C# no banckend e React/JavaScript no frontend
+- 👨‍🎓 Cursando o quarto ano de Ciências da Computação
+- 🚀 Sempre buscando evoluir! Find out!
 
 <div align="center">
 <!--     <h3 align="left">⭐ Stats ⭐</h3> -->

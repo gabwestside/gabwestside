@@ -3,7 +3,7 @@
 - 🔭 Atualmente sou Desenvolvedor Fullstack Junior no FitBank
 - 📚 No momento trabalho com C# no banckend e React/JavaScript no frontend
 - 👨‍🎓 Cursando o quarto ano de Ciências da Computação
-- 🚀 Sempre buscando evoluir! Find out!
+- 🚀 Sempre buscando evoluir! Find it out!
 
 <div align="center">
 <!--     <h3 align="left">⭐ Stats ⭐</h3> -->

@@ -1,7 +1,7 @@
 ### Olá Mundo, Gabriel aqui! 👋😎
 
 - 🔭 Atualmente sou Desenvolvedor Fullstack Junior no FitBank
-- 📚 No momento trabalho com C# no banckend e React/JavaScript no frontend
+- 📚 No momento trabalho com React/JavaScript no frontend e C# no banckend 
 - 👨‍🎓 Cursando o quarto ano de Ciências da Computação
 - 🚀 Sempre buscando evoluir! Find it out!
 

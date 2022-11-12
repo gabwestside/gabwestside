@@ -3,7 +3,7 @@
 - 🔭 Atualmente sou Desenvolvedor Fullstack Junior no FitBank
 - 📚 No momento trabalho com React/JavaScript no frontend e C# no banckend 
 - 👨‍🎓 Cursando o quarto ano de Ciências da Computação
-- 💻 https: Design System que colaborei https://npmjs.com/package/design-system-fitbank
+- 💻 Design System do FitBank: https://npmjs.com/package/design-system-fitbank
 - 🚀 Sempre buscando evoluir! Find out!
 
 <div align="center">

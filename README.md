@@ -19,7 +19,7 @@
   
 </div>
 
- ### Linguagens e tecnologias que utilizo no dia-a-dia 🖥️🤓
+ ### Languages and techs that I use on a daily basis 🖥️🤓
 
 <div style="display: inline_block"><br>
   <p>

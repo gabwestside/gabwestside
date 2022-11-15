@@ -1,4 +1,4 @@
-### Olá Mundo, Gabriel aqui! 👋😎
+### Hello World, welcome to my playground! 👋😎
 
 - 🔭 I'm currently a Junior Fullstack Developer at FitBank
 - 💻 FitBank Design System: https://npmjs.com/package/design-system-fitbank

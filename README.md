@@ -1,10 +1,10 @@
 ### Olá Mundo, Gabriel aqui! 👋😎
 
-- 🔭 Atualmente sou Desenvolvedor Fullstack Junior no FitBank
-- 💻 Design System do FitBank: https://npmjs.com/package/design-system-fitbank
-- 📚 No momento trabalho com React/JavaScript no frontend e C# no banckend 
-- 👨‍🎓 Cursando o quarto ano de Ciências da Computação
-- 🚀 Sempre buscando evoluir! Find out!
+- 🔭 I'm currently a Junior Fullstack Developer at FitBank
+- 💻 FitBank Design System: https://npmjs.com/package/design-system-fitbank
+- 📚 At the moment I work with React/JavaScript on the frontend and C# on the backend
+- 👨‍🎓 Studying the fourth year of Computer Science
+- 🚀 Always looking to evolve! Find out!
 
 <div align="center">
 <!--     <h3 align="left">⭐ Stats ⭐</h3> -->

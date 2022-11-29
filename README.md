@@ -9,7 +9,7 @@
 <div align="center">
 <!--     <h3 align="left">⭐ Stats ⭐</h3> -->
     
-  ### Estatisticas 🔥
+  ### Stats 🔥
     
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabwestside&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
   

@@ -7,15 +7,15 @@
 - 🚀 Always looking to evolve! Find out!
 
 <div align="center">
-<!--     <h3 align="left">⭐ Stats ⭐</h3> -->
+<h3 align="left">⭐ Stats ⭐</h3>
     
-  ### Stats 🔥
+ <!--### Stats 🔥-->
     
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabwestside&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD)](https://git.io/streak-stats)
   
 <!--   <a href="https://github.com/gabwestside">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabwestside&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabwestside&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-lan;gs/?username=gabwestside&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
 

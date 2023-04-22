@@ -1,7 +1,7 @@
 ### Hello World, welcome to my playground! 👋😎
 
-- 🔭 I'm currently a Junior Fullstack Developer at [FitBank 450](https://fitbank.com.br/en/home-fitbank/)
-- 💻 FitBank Design System: https://www.npmjs.com/package/design-system-fitbank-450
+- 🔭 I'm currently a Junior Fullstack Developer and Tech Lead at [FitBank 450](https://fitbank.com.br/en/home-fitbank/)
+- 💻 FitBank Design System: [design-system-fitbank-450](https://www.npmjs.com/package/design-system-fitbank-450)
 - 📚 At the moment I work with React/JavaScript on the frontend and C# on the backend
 - 👨‍🎓 Studying the fourth year of Computer Science
 - 🚀 Always looking to evolve! Find out!

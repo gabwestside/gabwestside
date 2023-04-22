@@ -4,7 +4,7 @@
 - 💻 FitBank Design System: [design-system-fitbank-450](https://www.npmjs.com/package/design-system-fitbank-450)
 - 📚 At the moment I work with React/JavaScript on the frontend and C# on the backend
 - 👨‍🎓 Studying the fourth year of Computer Science
-- 🚀 Always looking to evolve! Find out!
+- 🚀 Always looking to grow!
 
 <div align="center">
     

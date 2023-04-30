@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+![github-header-image](https://user-images.githubusercontent.com/60760967/235369329-1e69d25f-48f5-49ad-9be9-0ef0df460291.png)
+
+
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFjZWI5YzQ4OWUwMDAwYWNiMzg4OTFkN2NhNTU3NDkyMzk3ZWM3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFjZWI5YzQ4OWUwMDAwYWNiMzg4OTFkN2NhNTU3NDkyMzk3ZWM3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
 - 🔭 I’m currently working at [FitBank](https://fitbank.com.br/)

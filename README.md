@@ -18,11 +18,13 @@
 
 <br />
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabwestside&theme=dracula&" alt="gabwestside" /></p>
+<p align="left" width="100%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabwestside&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabwestside" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabwestside&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabwestside" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabwestside&show_icons=true&theme=dracula&locale=en" alt="gabwestside" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gabwestside&show_icons=true&theme=dracula&locale=en" alt="gabwestside" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabwestside&theme=dracula&" alt="gabwestside" /></p>
+
 
 <br />
 

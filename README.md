@@ -2,8 +2,9 @@
 
 <h3 align="center">from Brazil 🇧🇷</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFjZWI5YzQ4OWUwMDAwYWNiMzg4OTFkN2NhNTU3NDkyMzk3ZWM3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="400" padding="20px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFjZWI5YzQ4OWUwMDAwYWNiMzg4OTFkN2NhNTU3NDkyMzk3ZWM3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+<br />
 
 - 🔭 I’m currently working at [FitBank](https://fitbank.com.br/)
 
@@ -17,14 +18,11 @@
 
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabwestside&theme=dracula&" alt="gabwestside" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabwestside&theme=dracula&" alt="gabwestside" /></p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabwestside&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabwestside" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabwestside&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabwestside" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabwestside&show_icons=true&theme=dracula&locale=en" alt="gabwestside" /></p>
-
 
 <br />
 

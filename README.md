@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working at [FitBank](https://fitbank.com.br/)
 
-- 🌱 I’m currently learning **React and Node**
-
 - 👯 I’m collaborating on [FitBank Design System](https://www.npmjs.com/package/design-system-fitbank-450)
+
+- 🌱 I’m currently learning **React and Node**
 
 - 📫 How to reach me **gabrielnfl13@gmail.com**
 

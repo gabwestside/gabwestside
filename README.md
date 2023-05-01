@@ -2,7 +2,9 @@
 
 <h3 align="center"></h3>
 
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFjZWI5YzQ4OWUwMDAwYWNiMzg4OTFkN2NhNTU3NDkyMzk3ZWM3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFjZWI5YzQ4OWUwMDAwYWNiMzg4OTFkN2NhNTU3NDkyMzk3ZWM3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<!-- ![output-onlinegiftools](https://user-images.githubusercontent.com/60760967/235392568-92402560-4243-4e37-ac8c-2e4bcd14dd26.gif) -->
 
 <br />
 
@@ -20,7 +22,8 @@
 
 <br />
 
-### 📊 Stats:
+<h3 align="center">📊 Stats:</h3>
+
 <p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabwestside&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabwestside" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gabwestside&show_icons=true&theme=dracula&locale=en" alt="gabwestside" /></p>

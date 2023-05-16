@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I love sports**
 
-- 🇧🇷 Just a dev from **Brazil**
+<!-- - 🇧🇷 Just a dev from **Brazil** -->
 
 <br />
 

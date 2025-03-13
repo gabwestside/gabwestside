@@ -8,7 +8,8 @@
 
 <br />
 
-- 🔭 I’m currently working at [FitBank](https://fitbank.com.br/)
+
+<!-- - 🔭 I’m currently working at [FitBank](https://fitbank.com.br/)
 
 - 👯 I’m collaborating on [FitBank Design System](https://www.npmjs.com/package/design-system-fitbank-450)
 
@@ -16,13 +17,14 @@
 
 - 📫 How to reach me **gabrielnfl13@gmail.com**
 
-- ⚡ Fun fact **I love sports**
+- ⚡ Fun fact **I love sports*** -->
 
 <!-- - 🇧🇷 Just a dev from **Brazil** -->
 
-<br />
 
 <h3 align="center">📊 Stats:</h3>
+
+<br />
 
 <p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabwestside&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabwestside" /></p>
 

@@ -1,13 +1,10 @@
 ![github-header](https://user-images.githubusercontent.com/60760967/235370090-5f888ef8-85f3-471b-9869-fb0f90903980.png)
 
-<h3 align="center"></h3>
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFjZWI5YzQ4OWUwMDAwYWNiMzg4OTFkN2NhNTU3NDkyMzk3ZWM3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFjZWI5YzQ4OWUwMDAwYWNiMzg4OTFkN2NhNTU3NDkyMzk3ZWM3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />](url) -->
 
 <!-- ![output-onlinegiftools](https://user-images.githubusercontent.com/60760967/235392568-92402560-4243-4e37-ac8c-2e4bcd14dd26.gif) -->
-
-<br />
-
 
 <!-- - 🔭 I’m currently working at [FitBank](https://fitbank.com.br/)
 
@@ -21,16 +18,13 @@
 
 <!-- - 🇧🇷 Just a dev from **Brazil** -->
 
+<!-- <h3 align="center">📊 Stats:</h3> -->
 
-<h3 align="center">📊 Stats:</h3>
-
-<br />
-
-<p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabwestside&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabwestside" /></p>
+<!--<p align="center" width="100%"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabwestside&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gabwestside" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gabwestside&show_icons=true&theme=dracula&locale=en" alt="gabwestside" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabwestside&theme=dracula&" alt="gabwestside" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabwestside&theme=dracula&" alt="gabwestside" /></p> -->
 
 
 <br />

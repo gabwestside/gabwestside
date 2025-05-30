@@ -1,15 +1,15 @@
 ![github-header](https://user-images.githubusercontent.com/60760967/235370090-5f888ef8-85f3-471b-9869-fb0f90903980.png)
 
-### 📊 Stats:
+### 📊 Stats
 ![Status](./profile-3d-contrib/profile-night-view.svg)
 
-### 🔥 Streak:
-<a href="https://git.io/streak-stats">
+### 🔥 Streak
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gabwestside&theme=tokyonight-duo&hide_border=true&short_numbers=true&card_width=600" alt="GitHub Streak"/>
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/10/fire-gif.gif">
-</a>
+  <img src="https://assets-v2.lottiefiles.com/a/d4de1946-9422-11ee-8887-2b4c060771a9/QjhNFmRetW.gif" width="200" >
+</div>
 
-### 📩 Connect with me:
+### 📩 Connect with me
 <p align="left">
   <a href="https://instagram.com/gabwestside" target="blank" padding="4">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40"
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-### ⚙ Languages and Tools:
+### ⚙ Languages and Tools
 <div align="left">
   <a href="https://skillicons.dev">
     <img

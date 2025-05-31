@@ -41,7 +41,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=gabwestside&rank=-C,-B,-Unknown&theme=dracula&no-frame=true&no-bg=true&column=-1&margin-w=15&margin-h=15"
+      src="https://github-profile-trophy.vercel.app/?username=gabwestside&rank=-C,-B,-Unknown&theme=onestar&no-frame=true&no-bg=true&column=-1&margin-w=15&margin-h=15"
       alt="gabwestside" />
   </a>
 </p>

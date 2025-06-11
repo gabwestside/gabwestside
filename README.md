@@ -33,7 +33,8 @@
 <div align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=git,vscode,visualstudio,dotnet,cs,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,rabbitmq,elasticsearch,docker,figma,github,jest,materialui,postman,styledcomponents,vercel,vite,mongodb,postgres,androidstudio,apple,azure" />
+      src="https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,typescript,css,react,next,tailwind,github,materialui,postgres,mongodb,androidstudio,apple,flutter,nodejs,rabbitmq,docker,elasticsearch,prisma,javascript,postman,vite,html,sass,figma,git,cs,firebase,styledcomponents"
+    />
   </a>
 </div>
 
